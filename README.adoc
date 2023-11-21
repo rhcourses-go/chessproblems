@@ -1,0 +1,3 @@
+= Schachprobleme
+
+Dieses Repo enthält Aufgaben zur rekursiven Lösung von Logikrätseln auf einem Schachbrett.
